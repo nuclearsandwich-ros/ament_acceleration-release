@@ -1,0 +1,15 @@
+ros-humble-ament-acceleration (0.2.0-2bullseye) bullseye; urgency=high
+
+  * Prepare for release, add minor clarifications.
+  * Update maintainer.
+
+ -- Víctor Mayoral Vilches <victor@accelerationrobotics.com>  Wed, 23 Mar 2022 07:00:00 -0000
+
+ros-humble-ament-acceleration (0.1.0-2bullseye) bullseye; urgency=high
+
+  * Initial version
+  * Include ROS_ACCELERATION variable in here
+
+ -- Víctor Mayoral Vilches <victor@accelerationrobotics.com>  Wed, 20 Oct 2021 07:00:00 -0000
+
+
